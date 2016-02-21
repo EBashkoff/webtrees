@@ -1,0 +1,4 @@
+allow from 192.168.2.0/24
+allow from 127.0.0.1
+
+Require all granted
